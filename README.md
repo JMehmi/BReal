@@ -6,8 +6,8 @@ BReal is the replica of the original Be Real Social application that randomly se
 ## DESIGN TOOLS
 Canva is the design tool used for the graphical user interface prototype
 
-##CODING
-##PROGRAMMING LANGUAGE 
+## CODING
+## PROGRAMMING LANGUAGE 
 Kotlin is the programming language that will be used for the implementation of the system.
 
 ### Database and Sensor
