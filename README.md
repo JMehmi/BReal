@@ -8,7 +8,7 @@ Canva is the design tool used for the graphical user interface prototype
 
 ## CODING
 ## PROGRAMMING LANGUAGE 
-Kotlin is the programming language that will be used for the implementation of the system.
+Kotlin is the programming language used for the implementation
 
 ### Database and Sensor
 Firebase will be used as the Database and we will use both cameras(front and retro)
